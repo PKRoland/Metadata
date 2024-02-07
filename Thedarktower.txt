@@ -1,6 +1,6 @@
 {
-  "name": "Pkamgreaw ",
-  "website": "https://www.Thedarktower",
+  "name": "Pkamgreaw",
+  "website": "https://www.Thedarktower.com",
   "description": "Roland and Jake",
   "logo": "https://r.resimlink.com/Cy81SDtQKLWo.png",
   "twitter": "https://twitter.com/Doguscanozz"
