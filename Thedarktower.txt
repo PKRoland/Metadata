@@ -2,6 +2,6 @@
   "name": "Pkamgreaw ",
   "website": "https://www.Thedarktower",
   "description": "Roland and Jake",
-  "logo": "https://ibb.co/2NqPHBQ",
+  "logo": "roland-deschain-of-the-dark-tower-novel-v0-5tx8oh4iz07a1.png",
   "twitter": "https://twitter.com/Doguscanozz"
 }
